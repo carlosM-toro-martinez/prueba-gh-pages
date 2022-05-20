@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prueba-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/prueba-gh-pages/static/js/main.c77c8a4a.js",
+    "index.html": "/prueba-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/prueba-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.c77c8a4a.js.map": "/prueba-gh-pages/static/js/main.c77c8a4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c77c8a4a.js"
+  ]
+}
